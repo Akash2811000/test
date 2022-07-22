@@ -11,4 +11,4 @@ class BookingController {
 }
 
 router.get('/check',BookingController.checkavilabity);
-expo
+export {router};
